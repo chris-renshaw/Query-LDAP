@@ -1,5 +1,6 @@
 ## LDAP Query Function ########################################
 jointly written by Chris Renshaw and Justin Brazil
+
 Created 05/25/15
 
 Note - before you can run this script you will need to update 
