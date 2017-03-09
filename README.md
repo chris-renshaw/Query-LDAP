@@ -9,5 +9,5 @@ certain settings in it to meet your infrastructure
 ## Outline of script ##########################################
 
 * Select between User Objects or Computer Objects
-* Choose between specified choices, lists, or eneter a specific OU to search
+* Choose between specified choices, lists, or enter a specific OU to search
 * Results returned to the $LDAP variable to be used outside of script
